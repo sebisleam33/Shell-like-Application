@@ -1,0 +1,7 @@
+total 32
+-rw-rw-r-- 1 maddy maddy     0 فروری   4 23:46 file
+-rw-rw-r-- 1 maddy maddy     0 فروری   4 23:47 file3
+-rw-rw-r-- 1 maddy maddy     0 فروری   4 23:49 newfile
+-rw-rw-r-- 1 maddy maddy   302 فروری   4 23:48 out.txt
+-rwxrwxr-x 1 maddy maddy 17128 فروری   4 23:49 shell
+-rw-rw-r-- 1 maddy maddy  8072 فروری   4 23:45 shell.c
